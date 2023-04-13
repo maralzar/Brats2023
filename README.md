@@ -5,9 +5,8 @@
 - [Medical Image Segmentation](#Articles)
 
 ## Articles
-
-[**Brain tumor segmentation based on the fusion of deep semantics and edge information in multimodal MRI.**](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001981)<br>.
-[**Transformers in medical image segmentation: A review.**](https://www.sciencedirect.com/science/article/abs/pii/S1746809423002240)<br>.
+[**Brain tumor segmentation based on the fusion of deep semantics and edge information in multimodal MRI.**](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001981)<br>
+[**Transformers in medical image segmentation: A review.**](https://www.sciencedirect.com/science/article/abs/pii/S1746809423002240)<br>
 
 ## Github
 [DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg) (159 stars,2022).<br>
