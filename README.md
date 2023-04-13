@@ -14,10 +14,10 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 [[Paper]](https://arxiv.org/pdf/2301.03505.pdf)
 
 ## Github
-[DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg) (159 stars,2022)
-[Brain-Tumor-Segmentation](https://github.com/Mehrdad-Noori/Brain-Tumor-Segmentation) (159 stars,2022)
-[WSS-CMER](https://github.com/gaurav104/WSS-CMER) (16 stars,2022)
-[BraTS21](https://github.com/Alxaline/BraTS21) (6 stars,2021)
+[DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg) (159 stars,2022).<br>
+[Brain-Tumor-Segmentation](https://github.com/Mehrdad-Noori/Brain-Tumor-Segmentation) (159 stars,2022).<br>
+[WSS-CMER](https://github.com/gaurav104/WSS-CMER) (16 stars,2022).<br>
+[BraTS21](https://github.com/Alxaline/BraTS21) (6 stars,2021).<br>
 [OSS-Net](https://github.com/ChristophReich1996/OSS-Net) (24 stars, 2021)
 [open_brats2020](https://github.com/lescientifik/open_brats2020) (125 stars, 2020)
 [BraTS-2020](https://github.com/akhanss/BraTS-2020) (43 stars, 2020)
