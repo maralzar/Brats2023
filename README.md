@@ -14,4 +14,5 @@ Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amiral
 [[Paper]](https://arxiv.org/pdf/2301.03505.pdf)
 
 ## Github
-[DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg)
+[DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg) (50 stars)
+
