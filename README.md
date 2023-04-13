@@ -1,7 +1,7 @@
 # Brats2023
 
 ## Overview
-- [Survey papers](#survey)
+- [Github repo](#Github)
 - [Medical Image Segmentation](#segmentation)
 - [Medical Image Classification](#classification)
 
@@ -13,4 +13,5 @@
 Reza Azad, Amirhossein Kazerouni, Moein Heidari, Ehsan Khodapanah Aghdam, Amirali Molaei, Yiwei Jia, Abin Jose, Rijo Roy, Dorit Merhof
 [[Paper]](https://arxiv.org/pdf/2301.03505.pdf)
 
-
+## Github
+[DeepBrainSeg](https://github.com/koriavinash1/DeepBrainSeg)
